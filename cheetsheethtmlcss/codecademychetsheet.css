@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: LightBlue;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: MidnightBlue;
+    text-align: center;
+}
+
+h4 {
+    color: Black;
+    font-family: Lucida Grande;
+}
+
+table {
+    border: 2px solid MintCream;
+    width: 650px;
+    margin: 0 auto;
+}
+
+thead {
+    background-color: LightSlateGrey;
+}
+
+td {
+    border-top: 1px solid GhostWhite;
+}
+
+.code {
+    font-family: monospace;
+    background-color: White;
+}
+
+
+/*--.code is refrencing our span class="code"> from the html page-->*\
